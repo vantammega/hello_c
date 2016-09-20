@@ -21,7 +21,7 @@ using namespace std;
  */
 int main(int argc, char** argv) {
     
-    printf ("Hello c");    
+    printf ("Hello_c nobi \r\n");    
     return 0;
 }
 
